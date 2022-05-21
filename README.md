@@ -1,4 +1,4 @@
-Meme Generator | <a href="https://62852df1dc7b4f0f0baa9820--kaleidoscopic-kulfi-0e51c6.netlify.app/" >DEMO</a>
+Meme Generator | <a href="https://kaleidoscopic-kulfi-0e51c6.netlify.app/" >DEMO</a>
 
 Things Learnt during this project:
 
